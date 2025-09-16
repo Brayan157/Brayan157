@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on [Invillia](https://invillia.com/)
+- 👯 I’m seeking a company where I can collaborate and contribute
 
 - 👨‍💻 All of my projects are available at [https://github.com/Brayan157?tab=repositories](https://github.com/Brayan157?tab=repositories)
 
