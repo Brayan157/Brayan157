@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bry4nn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bry4nn_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gustavo brayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo brayan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gustavo brayan](https://www.linkedin.com/in/gustavo-brayan-3aa59a255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo brayan" height="30" width="40" /></a>
 <a href="https://fb.com/gustavo brayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo brayan" height="30" width="40" /></a>
 <a href="https://instagram.com/brayan_557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayan_557" height="30" width="40" /></a>
 <a href="https://discord.gg/Gustavo_brayan#2888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gustavo_brayan#2888" height="30" width="40" /></a>
